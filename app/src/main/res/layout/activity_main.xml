@@ -11,19 +11,19 @@
         android:layout_height="match_parent"
         android:layout_marginRight="20dp"
         android:layout_marginLeft="15dp"
-        android:background="@drawable/bg1"
+
         >
 
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Library"
-            android:fontFamily="@font/sf"
             android:layout_marginTop="20dp"
+
+            android:text="Library"
+            android:textColor="@color/black"
             android:textSize="30dp"
             android:textStyle="bold"
-            android:textColor="@color/black"
 
             />
 
@@ -46,7 +46,7 @@
             android:layout_alignParentRight="true"
             android:layout_alignParentBottom="true"
             android:layout_marginBottom="20dp"
-            android:fontFamily="@font/sf"
+
             android:text="New Data" />
     </RelativeLayout>
 

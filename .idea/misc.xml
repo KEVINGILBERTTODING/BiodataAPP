@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/BiodataAPP/app/src/main/res/layout/activity_create_data.xml" value="0.23157894736842105" />
         <entry key="..\:/BiodataAPP/app/src/main/res/layout/activity_main.xml" value="0.20572916666666666" />
+        <entry key="..\:/BiodataAPP/app/src/main/res/layout/activity_show_data.xml" value="0.11376858435681965" />
+        <entry key="..\:/BiodataAPP/app/src/main/res/layout/activity_update_data.xml" value="0.1" />
         <entry key="..\:/Mata Kuliah/Semester 3/Pemprograman Mobile 1/BiodataAPP/app/src/main/res/drawable/ic_baseline_library_add_24.xml" value="0.382051282051282" />
         <entry key="..\:/Mata Kuliah/Semester 3/Pemprograman Mobile 1/BiodataAPP/app/src/main/res/layout/activity_create_data.xml" value="0.24728260869565216" />
         <entry key="..\:/Mata Kuliah/Semester 3/Pemprograman Mobile 1/BiodataAPP/app/src/main/res/layout/activity_main.xml" value="0.25" />

@@ -19,7 +19,7 @@
             android:layout_alignLeft="@+id/textView1"
             android:inputType="number"
             android:maxLength="10"
-            android:fontFamily="@font/sf_reg"
+
             android:textStyle="bold"
 
             />
@@ -32,7 +32,7 @@
             android:layout_below="@+id/judul2"
             android:layout_marginTop="20dp"
             android:text="ID"
-            android:fontFamily="@font/sf_reg"
+
             android:textStyle="bold"
 
             />
@@ -42,7 +42,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
-            android:fontFamily="@font/sf"
+
             android:text="Update"
             android:textColor="@color/black"
             android:textSize="30dp"
@@ -58,7 +58,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:text="Nama"
-            android:fontFamily="@font/sf_reg"
+
             android:layout_below="@id/editText1"
 
 
@@ -72,7 +72,7 @@
             android:layout_alignLeft="@+id/textView2"
             android:inputType="text"
             android:maxLength="20"
-            android:fontFamily="@font/sf_reg"
+
             android:textStyle="bold"
             />
 
@@ -161,7 +161,7 @@
             android:layout_alignLeft="@+id/editText5"
             android:layout_alignParentBottom="true"
             android:layout_marginBottom="15dp"
-            android:fontFamily="@font/sf"
+
             android:text="Update" />
 
         <Button
@@ -172,7 +172,7 @@
             android:layout_alignParentBottom="true"
             android:layout_alignRight="@+id/editText5"
             android:layout_alignEnd="@+id/editText5"
-            android:fontFamily="@font/sf"
+
             android:layout_marginBottom="15dp"
             />
     </RelativeLayout>
